@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=hangman
+comment0.text=\n\ just\ a\ hangman\ game.\n\n\ wesley\n\ v1.0\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=u
+comment2.target=boolean\ underscoreCheck(char[])
+numComments=3
